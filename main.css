@@ -8,9 +8,10 @@ section{
   color:white;
   text-decoration: none;
 }
-p.font{
+
+.font{
   font-family: sans-serif;
-    font-size: 20px;
+    font-size: 30px;
   }
 img{
   box-shadow: 5px 5px 7px 2px #1a0000;
